@@ -1,3 +1,3 @@
 # Java-OOP-Banking-System
 
-Object-oriented baking system made with Java
+Object-oriented banking system made with Java
